@@ -7,7 +7,7 @@
 
 #navbar{
     height: 180px;
-    
+      width: 25%;
 
 }
 
@@ -21,7 +21,7 @@
 #navbar-itens {
     flex-direction: column;
     text-align: center;
-    width: 25%;
+  
 }
 #navbar-itens li:nth-child(2) 
 {
